@@ -1,0 +1,21 @@
+set $wallpaper /home/ag/.config/wall.png
+
+set $background #060911
+set $foreground #c4cddb
+
+set $color0 #060911
+set $color1 #A17460
+set $color2 #345588
+set $color3 #61708B
+set $color4 #7888A1
+set $color5 #7C98C2
+set $color6 #8C99AE
+set $color7 #c4cddb
+set $color8 #898f99
+set $color9 #A17460
+set $color10 #345588
+set $color11 #61708B
+set $color12 #7888A1
+set $color13 #7C98C2
+set $color14 #8C99AE
+set $color15 #c4cddb

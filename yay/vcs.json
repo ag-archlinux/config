@@ -1,0 +1,20 @@
+{
+	"htop-vim-git": {
+		"github.com/hishamhm/htop.git": {
+			"protocols": [
+				"https"
+			],
+			"branch": "HEAD",
+			"sha": "b7b4200f854f667a917b7da8f92b3e0426131bd7"
+		}
+	},
+	"unclutter-xfixes-git": {
+		"github.com/Airblader/unclutter-xfixes": {
+			"protocols": [
+				"git"
+			],
+			"branch": "master",
+			"sha": "6d2142e2320435db6a47d5161f3851fe94bbc2bb"
+		}
+	}
+}
